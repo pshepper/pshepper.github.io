@@ -1,1 +1,1 @@
-Reform is the person writings of Patrick Shepper.
+Reform is the personal writings of Patrick Shepper.
