@@ -1,6 +1,7 @@
-title: "Personal Missive"
+title: "Reform"
 author: "Patrick Shepper"
-description: "Personal blog of Patrick Shepper." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "Reform is written by Patrick Shepper. Recently graduated Software engineer trying to figure things out." 
+# This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
@@ -15,7 +16,7 @@ linkedin_username: "patrick-shepper"
 #youtube_username: username
 #googleplus_username: +username
 mastodon: 
-  - username: "pshepper"
+  - username: "shepper"
     instance: "hachyderm.io"
 
 #########################################################################################
