@@ -1,0 +1,7 @@
+## Day 3 - Driving
+
+It is only the third day of writing and I am already getting stumped for topic. Lord help me.
+
+A car is currently in my possession that I wish wasn't. Nothing personal towards the car, I just wish I didn't need one. Driving is inherently	an antagonistic activity. You, as a driver, are trying to get from point A to point B as fast as possible (because no one likes to drive). There are two things in your way of achieving that goal. Traffic laws and other drivers who have the same goal. Being mad at traffic laws seems silly so most people place their anger towards other drivers. "I are the ones driving perfectly while everyone else has no idea what they're doing" is seemingly the mindset many people take. If everyone was as good a driver as they claimed there would be no bad drivers. Obviously there are bad drivers who cause accidents but the vast majority of people's anger comes from other drivers being too fast or too slow.
+
+I just personally don't find driving all that fun. I would much rather get to places by any other means of transportation. Whether walking, cycling, or public transport they would all allow me to occupy my mind with something else. Driving requires (or at least *should* require) 100% of your attention. All I want is the option to do transport some other way.
